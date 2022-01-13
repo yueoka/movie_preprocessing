@@ -1,4 +1,4 @@
-# > python 4panel.py 1min_20211117_09-38-40-W06L_sample.mp4 
+# > python 4panel.py 1min_sample_movie.mp4 
 # みたいな感じで使う。
 import cv2
 import sys
